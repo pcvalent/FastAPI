@@ -28,3 +28,10 @@ FastAPI is a high-performance framework for creating APIs with python. This is b
   - uvicorn main:app --reload
   
 ```
+## General information
+For more additional information, check the following link
+
+https://www.notion.so/Fast-API-2ca992f0e6b34fd9b794ba22038d5497?pvs=4
+
+![Logo](https://user-images.githubusercontent.com/107004251/225199464-f5c959c1-02a1-4ab2-a106-2018c06c540a.jpeg)
+
