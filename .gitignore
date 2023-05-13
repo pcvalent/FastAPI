@@ -1,0 +1,28 @@
+# Ignorar el entorno virtual de Python
+venv/
+
+# Ignorar los archivos generados por Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyc.*
+*.pyo.*
+*.egg-info/
+dist/
+build/
+*.egg
+*.egg-info/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyc.*
+*.pyo.*
+*.egg-info/
+*.egg-info/*
+*.egg-info/*.*
+*.egg-info/**/*
